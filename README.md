@@ -8,10 +8,13 @@ I bring the tactical discipline of chess and the team spirit & agility of footba
 
 ### 🚀 About Me
 - 🎯 **Current Focus:** Master Web Development from the ground up.
-- ⚽ **On the Field:** Passionate football player focused on speed, teamwork, and stamina.
+- ⚽ **On the Pitch:** Playing as a winger—operating at an **insane pace**, with agility and high energy.
 - ♟️ **On the Board:** Strategic chess player who loves calculating deep combinations.
 - 💻 **In Code:** Applying strategic thinking and athletic discipline to solve coding problems.
+- 🧮 **Mathematics:** Passionate about math and analytical calculations, which directly fuels my programming logic.
+- ⚡ Work Ethic: Driven by insane pace and focus when solving logic puzzles, debugging, and building web projects.
 - 📬 **Get in Touch:** [syedmdnafiz17@gmail.com](mailto:syedmdnafiz17@gmail.com)
+
 
 ---
 
